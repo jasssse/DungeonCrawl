@@ -1,2 +1,2 @@
 # DungeonCrawl
-A Roguelike dungeon game in python
+A Roguelike dungeon game made with python and pygame
